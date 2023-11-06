@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <remove-project name="vendor_firmware" />
+  <remove-project name="vendor_bcr" />
   <remove-project name="hardware_xiaomi" />
 </manifest>
