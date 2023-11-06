@@ -21,7 +21,4 @@
 
     <!-- Firmware -->
     <project path="vendor/firmware" name="chae0218/vendor_firmware_renoir" remote="gl" revision="Evo-14" clone-depth="1" />
-
-    <!-- bcr -->
-    <project path="vendor/bcr" name="RobertGarciaa/vendor_bcr" remote="gh" revision="1" clone-depth="1" />
 </manifest>
