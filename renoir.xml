@@ -20,5 +20,5 @@
     <project path="vendor/xiaomi/sm8350-common" name="EvoX-renoir/vendor_xiaomi_sm8350-common" remote="gh" revision="Evo-14" />
 
     <!-- Firmware -->
-    <project path="vendor/firmware" name="chae0218/vendor_firmware_renoir" remote="gl" revision="Evo-14" clone-depth="1" />
+    <project path="vendor/xiaomi/renoir-firmware" name="chae0218/vendor_xiaomi_renoir-firmware" remote="gl" revision="Evo-14" clone-depth="1" />
 </manifest>
