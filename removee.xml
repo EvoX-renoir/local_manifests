@@ -2,4 +2,5 @@
 <manifest>
   <remove-project name="vendor_firmware" />
   <remove-project name="hardware_xiaomi" />
+  <remove-project name="platform/packages/apps/Dialer" />
 </manifest>
