@@ -6,6 +6,7 @@
     <!-- Remotes -->
     <remote name="gh" fetch="https://github.com" revision="Evo-14" />
     <remote name="gl" fetch="https://gitlab.com" revision="Evo-14" />
+    <remote name="gd" fetch="https://github.com" revision="14.0" />
 
     <!-- Device -->
     <project path="device/xiaomi/renoir" name="EvoX-renoir/android_device_xiaomi_renoir" remote="gh" revision="Evo-14" />
@@ -21,4 +22,7 @@
 
     <!-- Firmware -->
     <project path="vendor/xiaomi/renoir-firmware" name="chae0218/vendor_xiaomi_renoir-firmware" remote="gl" revision="Evo-14" clone-depth="1" />
+    
+    <!-- Dialer -->
+    <project path="vendor/Dialer" name="RobertGarciaa/vendor_Dialer" remote="gd" revision="14.0" clone-depth="1" />    
 </manifest>
